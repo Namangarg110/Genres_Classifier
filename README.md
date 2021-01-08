@@ -1,5 +1,5 @@
 # Genres_Classifier
-To classify songs between category HIP-HOP &amp; ROCK using ML
+* To classify songs between category HIP-HOP &amp; ROCK using ML
 
 # Dataset Used 
 * econest-matrix
