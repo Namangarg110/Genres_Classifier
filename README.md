@@ -16,6 +16,7 @@ To classify songs between category HIP-HOP &amp; ROCK using ML
 * Sci-kit-learn
 
 # Best Accuracy 
-* Using logistic regression model (0.8115702479338843)
+* Using logistic regression model (0.8115702479338843 using cross validation)
+* Using logistic regression model (0.8784346378018318)
 
 # THANK YOU
